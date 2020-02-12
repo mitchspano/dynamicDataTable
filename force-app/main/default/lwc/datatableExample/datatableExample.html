@@ -1,0 +1,12 @@
+<template>
+  <div class="slds-box slds-theme_default">
+    <lightning-datatable
+      key-field="id"
+      data={data}
+      columns={columns}
+      onrowaction={handleRowAction}
+      hide-checkbox-column
+    >
+    </lightning-datatable>
+  </div>
+</template>
