@@ -4,7 +4,7 @@ Lightning Datatable is one of the more powerful base Lightning Web Components. T
 Lightning Datatable’s action column allows a developer to specify a list of actions which are available for the user to select. 
 This is great for most use cases, but the actions are defined as a constant, which means that every row must share the same actions.
 
-![Standard Actions](demo/standard%20Row%20actions.png)
+![Standard Actions](demo/standard%20row%20actions.png)
 
 ### Simple Demonstration
 Here is a simple demonstration of a lightning datatable with dynamic row actions
